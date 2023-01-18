@@ -1,0 +1,350 @@
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set key(String) to /etc/ssl/private/ssl-cert-snakeoil.key
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set VideoTime(Int) to 5
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set RectThreads(Int) to 0
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set DLP_ClipDelay(Int) to 0
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set DLP_ClipTypes(String) to chromium/x-web-custom-data,text/html,image/png
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set MaxIdleTime(Int) to 0
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set QueryConnect(Bool) to 0(0)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set sslOnly(Bool) to 0(0)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set VideoOutTime(Int) to 3
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set DynamicQualityMax(Int) to 8
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set WebpVideoQuality(Int) to -1
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set DLP_Log(String) to off
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set CompareFB(Int) to 2
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set desktop(String) to omsoft.online:1 (omsoft)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set MaxDisconnectionTime(Int) to 0
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set DynamicQualityMin(Int) to 7
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set AcceptCutText(Bool) to 1(1)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set AcceptSetDesktopSize(Bool) to 1(1)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set DLP_ClipSendMax(Int) to 0
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set SendPrimary(Bool) to 0(0)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set AvoidShiftNumLock(Bool) to 0(0)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set KasmPasswordFile(String) to /home/omsoft/.kasmpasswd
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set AllowOverride(String) to AcceptPointerEvents,SendCutText,AcceptCutText,SendPrimary
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set PrintVideoArea(Bool) to 0(0)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set TreatLossless(Int) to 10
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set QueryConnectTimeout(Int) to 10
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set DLP_RegionAllowClick(Bool) to 0(0)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set DisconnectClients(Bool) to 0(0)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set IdleTimeout(Int) to 0
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set RawKeyboard(Bool) to 0(0)
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set PasswordFile(String) to /home/omsoft/.vnc/passwd
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set rfbport(Int) to 5901
+ 2023-01-18 16:58:08,730 [DEBUG] Config: set ClientWaitTimeMillis(Int) to 30000
+
+Xvnc KasmVNC 0.9.8285ea812d6433af9504fde6b92e18aac6641e57 - built Dec  1 2022 16:33:10
+Copyright (C) 1999-2018 KasmVNC Team and many others (see README.me)
+See http://kasmweb.com for information on KasmVNC.
+Underlying X server release 12008000, The X.Org Foundation
+
+ 2023-01-18 16:58:08,730 [DEBUG] vncext: Adding DLP binary mime type chromium/x-web-custom-data
+ 2023-01-18 16:58:08,730 [DEBUG] vncext: Adding DLP binary mime type text/html
+ 2023-01-18 16:58:08,730 [DEBUG] vncext: Adding DLP binary mime type image/png
+ 2023-01-18 16:58:08,730 [DEBUG] vncext: Total 3 binary mime types
+ 2023-01-18 16:58:08,730 [INFO] ICE: Querying public IP...
+ 2023-01-18 16:58:08,730 [DEBUG] ICE: Trying 'stun.l.google.com', port 19302
+ 2023-01-18 16:58:08,798 [DEBUG] Config: set publicIP(String) to 78.153.130.196
+ 2023-01-18 16:58:08,798 [INFO] ICE: My public IP is 78.153.130.196
+ 2023-01-18 16:58:08,798 [INFO] vncext: VNC extension running!
+ 2023-01-18 16:58:08,798 [DEBUG] Config: set immutable AllowOverride
+ 2023-01-18 16:58:08,799 [INFO] vncext: Listening for websocket connections on 127.0.0.1 interface(s), port 8010
+ 2023-01-18 16:58:08,799 [DEBUG] VNCServerST: creating single-threaded server omsoft.online:1 (omsoft)
+ 2023-01-18 16:58:08,799 [INFO] VNCServerST: CPU capability: SSE2 yes, AVX512f no
+ 2023-01-18 16:58:08,799 [INFO] vncext: created VNC server for screen 0
+ 2023-01-18 16:58:08,837 [INFO] Input: Mouse horizonatl scroll factor: 50.000000
+ 2023-01-18 16:58:08,837 [INFO] Input: Mouse vertical scroll factor: 50.000000
+ 2023-01-18 16:58:08,851 [DEBUG] Selection: Selection owner change for _DBUS_SESSION_BUS_SELECTION_omsoft_5a1c14c43c48f8008c7e0cb92a058557
+ 2023-01-18 16:58:08,994 [DEBUG] WebUdp: UDP listening on port 8010
+ 2023-01-18 16:58:09,162 [DEBUG] Selection: Selection owner change for _XSETTINGS_S0
+ 2023-01-18 16:58:13,529 [INFO] websocket 0: got client connection from 127.0.0.1
+ 2023-01-18 16:58:13,533 [DEBUG] websocket 0: using SSL socket
+ 2023-01-18 16:58:13,536 [DEBUG] websocket 0: BasicAuth matched
+ 2023-01-18 16:58:13,536 [DEBUG] websocket 0: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:13,536 [DEBUG] websocket 0: Requested file '/index.html'
+ 2023-01-18 16:58:13,536 [INFO] websocket 0: 127.0.0.1 127.0.0.1 omsoft "GET /index.html HTTP/1.1" 200 19384
+ 2023-01-18 16:58:13,536 [DEBUG] websocket 0: No connection after handshake
+ 2023-01-18 16:58:13,536 [DEBUG] websocket 0: handler exit
+ 2023-01-18 16:58:13,666 [INFO] websocket 1: got client connection from 127.0.0.1
+ 2023-01-18 16:58:13,671 [DEBUG] websocket 1: using SSL socket
+ 2023-01-18 16:58:13,675 [DEBUG] websocket 1: BasicAuth matched
+ 2023-01-18 16:58:13,675 [DEBUG] websocket 1: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:13,675 [DEBUG] websocket 1: Requested file '/vendor/interact.min.js'
+ 2023-01-18 16:58:13,675 [INFO] websocket 1: 127.0.0.1 127.0.0.1 omsoft "GET /vendor/interact.min.js HTTP/1.1" 200 129286
+ 2023-01-18 16:58:13,675 [DEBUG] websocket 1: No connection after handshake
+ 2023-01-18 16:58:13,675 [DEBUG] websocket 1: handler exit
+ 2023-01-18 16:58:13,900 [INFO] websocket 2: got client connection from 127.0.0.1
+ 2023-01-18 16:58:13,904 [DEBUG] websocket 2: using SSL socket
+ 2023-01-18 16:58:13,906 [DEBUG] websocket 2: BasicAuth matched
+ 2023-01-18 16:58:13,906 [DEBUG] websocket 2: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:13,906 [DEBUG] websocket 2: Requested file '/dist/style.bundle.css'
+ 2023-01-18 16:58:13,906 [INFO] websocket 2: 127.0.0.1 127.0.0.1 omsoft "GET /dist/style.bundle.css HTTP/1.1" 200 16790
+ 2023-01-18 16:58:13,906 [DEBUG] websocket 2: No connection after handshake
+ 2023-01-18 16:58:13,906 [DEBUG] websocket 2: handler exit
+ 2023-01-18 16:58:13,929 [INFO] websocket 3: got client connection from 127.0.0.1
+ 2023-01-18 16:58:13,933 [DEBUG] websocket 3: using SSL socket
+ 2023-01-18 16:58:13,936 [DEBUG] websocket 3: BasicAuth matched
+ 2023-01-18 16:58:13,936 [DEBUG] websocket 3: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:13,936 [DEBUG] websocket 3: Requested file '/dist/runtime.bundle.js'
+ 2023-01-18 16:58:13,936 [INFO] websocket 3: 127.0.0.1 127.0.0.1 omsoft "GET /dist/runtime.bundle.js HTTP/1.1" 200 6459
+ 2023-01-18 16:58:13,936 [DEBUG] websocket 3: No connection after handshake
+ 2023-01-18 16:58:13,936 [DEBUG] websocket 3: handler exit
+ 2023-01-18 16:58:14,026 [INFO] websocket 4: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,031 [DEBUG] websocket 4: using SSL socket
+ 2023-01-18 16:58:14,033 [DEBUG] websocket 4: BasicAuth matched
+ 2023-01-18 16:58:14,033 [DEBUG] websocket 4: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,033 [DEBUG] websocket 4: Requested file '/dist/style.bundle.js'
+ 2023-01-18 16:58:14,033 [INFO] websocket 4: 127.0.0.1 127.0.0.1 omsoft "GET /dist/style.bundle.js HTTP/1.1" 200 476
+ 2023-01-18 16:58:14,033 [DEBUG] websocket 4: No connection after handshake
+ 2023-01-18 16:58:14,033 [DEBUG] websocket 4: handler exit
+ 2023-01-18 16:58:14,081 [INFO] websocket 5: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,085 [DEBUG] websocket 5: using SSL socket
+ 2023-01-18 16:58:14,087 [DEBUG] websocket 5: BasicAuth matched
+ 2023-01-18 16:58:14,087 [DEBUG] websocket 5: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,087 [DEBUG] websocket 5: Requested file '/app/images/icons/kasm_logo.png'
+ 2023-01-18 16:58:14,087 [INFO] websocket 5: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/icons/kasm_logo.png HTTP/1.1" 200 2258
+ 2023-01-18 16:58:14,087 [DEBUG] websocket 5: No connection after handshake
+ 2023-01-18 16:58:14,087 [DEBUG] websocket 5: handler exit
+ 2023-01-18 16:58:14,127 [INFO] websocket 6: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,131 [DEBUG] websocket 6: using SSL socket
+ 2023-01-18 16:58:14,134 [DEBUG] websocket 6: BasicAuth matched
+ 2023-01-18 16:58:14,134 [DEBUG] websocket 6: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,134 [DEBUG] websocket 6: Requested file '/app/images/drag.svg'
+ 2023-01-18 16:58:14,134 [INFO] websocket 6: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/drag.svg HTTP/1.1" 200 4879
+ 2023-01-18 16:58:14,134 [DEBUG] websocket 6: No connection after handshake
+ 2023-01-18 16:58:14,134 [DEBUG] websocket 6: handler exit
+ 2023-01-18 16:58:14,156 [INFO] websocket 7: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,160 [INFO] websocket 8: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,160 [DEBUG] websocket 7: using SSL socket
+ 2023-01-18 16:58:14,162 [INFO] websocket 9: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,164 [DEBUG] websocket 7: BasicAuth matched
+ 2023-01-18 16:58:14,164 [DEBUG] websocket 7: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,164 [DEBUG] websocket 7: Requested file '/dist/promise.bundle.js'
+ 2023-01-18 16:58:14,164 [INFO] websocket 7: 127.0.0.1 127.0.0.1 omsoft "GET /dist/promise.bundle.js HTTP/1.1" 200 23181
+ 2023-01-18 16:58:14,164 [DEBUG] websocket 7: No connection after handshake
+ 2023-01-18 16:58:14,164 [DEBUG] websocket 7: handler exit
+ 2023-01-18 16:58:14,164 [DEBUG] websocket 8: using SSL socket
+ 2023-01-18 16:58:14,165 [DEBUG] websocket 9: using SSL socket
+ 2023-01-18 16:58:14,167 [DEBUG] websocket 8: BasicAuth matched
+ 2023-01-18 16:58:14,167 [DEBUG] websocket 8: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,167 [DEBUG] websocket 8: Requested file '/dist/main.bundle.js'
+ 2023-01-18 16:58:14,167 [INFO] websocket 8: 127.0.0.1 127.0.0.1 omsoft "GET /dist/main.bundle.js HTTP/1.1" 200 681807
+ 2023-01-18 16:58:14,167 [DEBUG] websocket 8: No connection after handshake
+ 2023-01-18 16:58:14,167 [DEBUG] websocket 8: handler exit
+ 2023-01-18 16:58:14,168 [DEBUG] websocket 9: BasicAuth matched
+ 2023-01-18 16:58:14,168 [DEBUG] websocket 9: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,168 [DEBUG] websocket 9: Requested file '/dist/error_handler.bundle.js'
+ 2023-01-18 16:58:14,168 [INFO] websocket 9: 127.0.0.1 127.0.0.1 omsoft "GET /dist/error_handler.bundle.js HTTP/1.1" 200 2645
+ 2023-01-18 16:58:14,168 [DEBUG] websocket 9: No connection after handshake
+ 2023-01-18 16:58:14,168 [DEBUG] websocket 9: handler exit
+ 2023-01-18 16:58:14,175 [INFO] websocket 10: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,179 [DEBUG] websocket 10: using SSL socket
+ 2023-01-18 16:58:14,181 [DEBUG] websocket 10: BasicAuth matched
+ 2023-01-18 16:58:14,181 [DEBUG] websocket 10: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,181 [DEBUG] websocket 10: Requested file '/dist/vendors~main.bundle.js'
+ 2023-01-18 16:58:14,182 [INFO] websocket 10: 127.0.0.1 127.0.0.1 omsoft "GET /dist/vendors~main.bundle.js HTTP/1.1" 200 463458
+ 2023-01-18 16:58:14,182 [DEBUG] websocket 10: No connection after handshake
+ 2023-01-18 16:58:14,182 [DEBUG] websocket 10: handler exit
+ 2023-01-18 16:58:14,187 [INFO] websocket 11: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,191 [DEBUG] websocket 11: using SSL socket
+ 2023-01-18 16:58:14,193 [DEBUG] websocket 11: BasicAuth matched
+ 2023-01-18 16:58:14,193 [DEBUG] websocket 11: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,193 [DEBUG] websocket 11: Requested file '/dist/fonts/336ec822f2fdf93751577eabb42b1dd2.woff'
+ 2023-01-18 16:58:14,193 [INFO] websocket 11: 127.0.0.1 127.0.0.1 omsoft "GET /dist/fonts/336ec822f2fdf93751577eabb42b1dd2.woff HTTP/1.1" 200 17679
+ 2023-01-18 16:58:14,193 [DEBUG] websocket 11: No connection after handshake
+ 2023-01-18 16:58:14,193 [DEBUG] websocket 11: handler exit
+ 2023-01-18 16:58:14,239 [INFO] websocket 12: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,243 [DEBUG] websocket 12: using SSL socket
+ 2023-01-18 16:58:14,245 [DEBUG] websocket 12: BasicAuth matched
+ 2023-01-18 16:58:14,245 [DEBUG] websocket 12: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,245 [DEBUG] websocket 12: Requested file '/dist/images/3082090afb2b2a343ae20bd52c2e16bb.jpg'
+ 2023-01-18 16:58:14,245 [INFO] websocket 12: 127.0.0.1 127.0.0.1 omsoft "GET /dist/images/3082090afb2b2a343ae20bd52c2e16bb.jpg HTTP/1.1" 200 95682
+ 2023-01-18 16:58:14,245 [DEBUG] websocket 12: No connection after handshake
+ 2023-01-18 16:58:14,245 [DEBUG] websocket 12: handler exit
+ 2023-01-18 16:58:14,291 [INFO] websocket 13: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,295 [DEBUG] websocket 13: using SSL socket
+ 2023-01-18 16:58:14,297 [DEBUG] websocket 13: BasicAuth matched
+ 2023-01-18 16:58:14,297 [DEBUG] websocket 13: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,297 [DEBUG] websocket 13: Requested file '/dist/images/782e6b34fd46a00744786246a454ed11.png'
+ 2023-01-18 16:58:14,297 [INFO] websocket 13: 127.0.0.1 127.0.0.1 omsoft "GET /dist/images/782e6b34fd46a00744786246a454ed11.png HTTP/1.1" 200 2258
+ 2023-01-18 16:58:14,297 [DEBUG] websocket 13: No connection after handshake
+ 2023-01-18 16:58:14,297 [DEBUG] websocket 13: handler exit
+ 2023-01-18 16:58:14,324 [INFO] websocket 14: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,328 [DEBUG] websocket 14: using SSL socket
+ 2023-01-18 16:58:14,331 [DEBUG] websocket 14: BasicAuth matched
+ 2023-01-18 16:58:14,331 [DEBUG] websocket 14: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,331 [DEBUG] websocket 14: Requested file '/dist/images/62d0fcccbe3a2229d4f67847fe453ccc.svg'
+ 2023-01-18 16:58:14,331 [INFO] websocket 14: 127.0.0.1 127.0.0.1 omsoft "GET /dist/images/62d0fcccbe3a2229d4f67847fe453ccc.svg HTTP/1.1" 200 3261
+ 2023-01-18 16:58:14,331 [DEBUG] websocket 14: No connection after handshake
+ 2023-01-18 16:58:14,331 [DEBUG] websocket 14: handler exit
+ 2023-01-18 16:58:14,391 [INFO] websocket 15: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,395 [DEBUG] websocket 15: using SSL socket
+ 2023-01-18 16:58:14,396 [INFO] websocket 16: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,397 [DEBUG] websocket 15: BasicAuth matched
+ 2023-01-18 16:58:14,397 [DEBUG] websocket 15: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,397 [DEBUG] websocket 15: Requested file '/app/images/toggleextrakeys.svg'
+ 2023-01-18 16:58:14,398 [INFO] websocket 15: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/toggleextrakeys.svg HTTP/1.1" 200 4636
+ 2023-01-18 16:58:14,398 [DEBUG] websocket 15: No connection after handshake
+ 2023-01-18 16:58:14,398 [DEBUG] websocket 15: handler exit
+ 2023-01-18 16:58:14,400 [DEBUG] websocket 16: using SSL socket
+ 2023-01-18 16:58:14,402 [DEBUG] websocket 16: BasicAuth matched
+ 2023-01-18 16:58:14,402 [DEBUG] websocket 16: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,402 [DEBUG] websocket 16: Requested file '/app/images/keyboard.svg'
+ 2023-01-18 16:58:14,402 [INFO] websocket 16: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/keyboard.svg HTTP/1.1" 200 6599
+ 2023-01-18 16:58:14,402 [DEBUG] websocket 16: No connection after handshake
+ 2023-01-18 16:58:14,402 [DEBUG] websocket 16: handler exit
+ 2023-01-18 16:58:14,434 [INFO] websocket 17: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,438 [DEBUG] websocket 17: using SSL socket
+ 2023-01-18 16:58:14,440 [DEBUG] websocket 17: BasicAuth matched
+ 2023-01-18 16:58:14,440 [DEBUG] websocket 17: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,440 [DEBUG] websocket 17: Requested file '/app/images/ctrl.svg'
+ 2023-01-18 16:58:14,440 [INFO] websocket 17: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/ctrl.svg HTTP/1.1" 200 4576
+ 2023-01-18 16:58:14,440 [DEBUG] websocket 17: No connection after handshake
+ 2023-01-18 16:58:14,440 [DEBUG] websocket 17: handler exit
+ 2023-01-18 16:58:14,445 [INFO] websocket 18: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,449 [DEBUG] websocket 18: using SSL socket
+ 2023-01-18 16:58:14,451 [DEBUG] websocket 18: BasicAuth matched
+ 2023-01-18 16:58:14,451 [DEBUG] websocket 18: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,451 [DEBUG] websocket 18: Requested file '/app/images/alt.svg'
+ 2023-01-18 16:58:14,451 [INFO] websocket 18: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/alt.svg HTTP/1.1" 200 3748
+ 2023-01-18 16:58:14,451 [DEBUG] websocket 18: No connection after handshake
+ 2023-01-18 16:58:14,451 [DEBUG] websocket 18: handler exit
+ 2023-01-18 16:58:14,496 [INFO] websocket 19: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,500 [INFO] websocket 20: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,500 [DEBUG] websocket 19: using SSL socket
+ 2023-01-18 16:58:14,502 [DEBUG] websocket 19: BasicAuth matched
+ 2023-01-18 16:58:14,502 [DEBUG] websocket 19: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,502 [DEBUG] websocket 19: Requested file '/app/images/windows.svg'
+ 2023-01-18 16:58:14,502 [INFO] websocket 19: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/windows.svg HTTP/1.1" 200 2606
+ 2023-01-18 16:58:14,502 [DEBUG] websocket 19: No connection after handshake
+ 2023-01-18 16:58:14,502 [DEBUG] websocket 19: handler exit
+ 2023-01-18 16:58:14,504 [DEBUG] websocket 20: using SSL socket
+ 2023-01-18 16:58:14,506 [DEBUG] websocket 20: BasicAuth matched
+ 2023-01-18 16:58:14,506 [DEBUG] websocket 20: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,506 [DEBUG] websocket 20: Requested file '/app/images/tab.svg'
+ 2023-01-18 16:58:14,506 [INFO] websocket 20: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/tab.svg HTTP/1.1" 200 3148
+ 2023-01-18 16:58:14,506 [DEBUG] websocket 20: No connection after handshake
+ 2023-01-18 16:58:14,506 [DEBUG] websocket 20: handler exit
+ 2023-01-18 16:58:14,565 [INFO] websocket 21: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,569 [DEBUG] websocket 21: using SSL socket
+ 2023-01-18 16:58:14,571 [DEBUG] websocket 21: BasicAuth matched
+ 2023-01-18 16:58:14,571 [DEBUG] websocket 21: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,571 [DEBUG] websocket 21: Requested file '/app/images/esc.svg'
+ 2023-01-18 16:58:14,571 [INFO] websocket 21: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/esc.svg HTTP/1.1" 200 4717
+ 2023-01-18 16:58:14,571 [DEBUG] websocket 21: No connection after handshake
+ 2023-01-18 16:58:14,571 [DEBUG] websocket 21: handler exit
+ 2023-01-18 16:58:14,600 [INFO] websocket 22: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,605 [DEBUG] websocket 22: using SSL socket
+ 2023-01-18 16:58:14,607 [DEBUG] websocket 22: BasicAuth matched
+ 2023-01-18 16:58:14,607 [DEBUG] websocket 22: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,607 [DEBUG] websocket 22: Requested file '/app/images/ctrlaltdel.svg'
+ 2023-01-18 16:58:14,607 [INFO] websocket 22: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/ctrlaltdel.svg HTTP/1.1" 200 3432
+ 2023-01-18 16:58:14,607 [DEBUG] websocket 22: No connection after handshake
+ 2023-01-18 16:58:14,607 [DEBUG] websocket 22: handler exit
+ 2023-01-18 16:58:14,661 [INFO] websocket 23: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,665 [DEBUG] websocket 23: using SSL socket
+ 2023-01-18 16:58:14,667 [DEBUG] websocket 23: BasicAuth matched
+ 2023-01-18 16:58:14,667 [DEBUG] websocket 23: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,667 [DEBUG] websocket 23: Requested file '/app/images/power.svg'
+ 2023-01-18 16:58:14,667 [INFO] websocket 23: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/power.svg HTTP/1.1" 200 4180
+ 2023-01-18 16:58:14,667 [DEBUG] websocket 23: No connection after handshake
+ 2023-01-18 16:58:14,667 [DEBUG] websocket 23: handler exit
+ 2023-01-18 16:58:14,708 [INFO] websocket 24: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,708 [INFO] websocket 25: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,721 [DEBUG] websocket 24: using SSL socket
+ 2023-01-18 16:58:14,722 [DEBUG] websocket 25: using SSL socket
+ 2023-01-18 16:58:14,724 [DEBUG] websocket 25: BasicAuth matched
+ 2023-01-18 16:58:14,724 [DEBUG] websocket 25: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,724 [DEBUG] websocket 25: Requested file '/app/images/fullscreen.svg'
+ 2023-01-18 16:58:14,724 [INFO] websocket 25: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/fullscreen.svg HTTP/1.1" 200 3334
+ 2023-01-18 16:58:14,724 [DEBUG] websocket 25: No connection after handshake
+ 2023-01-18 16:58:14,724 [DEBUG] websocket 25: handler exit
+ 2023-01-18 16:58:14,725 [DEBUG] websocket 24: BasicAuth matched
+ 2023-01-18 16:58:14,725 [DEBUG] websocket 24: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,725 [DEBUG] websocket 24: Requested file '/app/images/clipboard.svg'
+ 2023-01-18 16:58:14,726 [INFO] websocket 24: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/clipboard.svg HTTP/1.1" 200 4175
+ 2023-01-18 16:58:14,726 [DEBUG] websocket 24: No connection after handshake
+ 2023-01-18 16:58:14,726 [DEBUG] websocket 24: handler exit
+ 2023-01-18 16:58:14,759 [INFO] websocket 26: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,763 [DEBUG] websocket 26: using SSL socket
+ 2023-01-18 16:58:14,765 [DEBUG] websocket 26: BasicAuth matched
+ 2023-01-18 16:58:14,765 [DEBUG] websocket 26: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,765 [DEBUG] websocket 26: Requested file '/app/images/gamepad.png'
+ 2023-01-18 16:58:14,765 [INFO] websocket 26: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/gamepad.png HTTP/1.1" 200 2289
+ 2023-01-18 16:58:14,765 [DEBUG] websocket 26: No connection after handshake
+ 2023-01-18 16:58:14,765 [DEBUG] websocket 26: handler exit
+ 2023-01-18 16:58:14,833 [INFO] websocket 27: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,837 [DEBUG] websocket 27: using SSL socket
+ 2023-01-18 16:58:14,839 [DEBUG] websocket 27: BasicAuth matched
+ 2023-01-18 16:58:14,839 [DEBUG] websocket 27: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,839 [DEBUG] websocket 27: Requested file '/app/images/settings.svg'
+ 2023-01-18 16:58:14,839 [INFO] websocket 27: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/settings.svg HTTP/1.1" 200 3277
+ 2023-01-18 16:58:14,839 [DEBUG] websocket 27: No connection after handshake
+ 2023-01-18 16:58:14,839 [DEBUG] websocket 27: handler exit
+ 2023-01-18 16:58:14,861 [INFO] websocket 28: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,865 [DEBUG] websocket 28: using SSL socket
+ 2023-01-18 16:58:14,867 [DEBUG] websocket 28: BasicAuth matched
+ 2023-01-18 16:58:14,867 [DEBUG] websocket 28: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,867 [DEBUG] websocket 28: Requested file '/app/images/disconnect.svg'
+ 2023-01-18 16:58:14,867 [INFO] websocket 28: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/disconnect.svg HTTP/1.1" 200 5257
+ 2023-01-18 16:58:14,867 [DEBUG] websocket 28: No connection after handshake
+ 2023-01-18 16:58:14,867 [DEBUG] websocket 28: handler exit
+ 2023-01-18 16:58:14,901 [INFO] websocket 29: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,905 [DEBUG] websocket 29: using SSL socket
+ 2023-01-18 16:58:14,907 [DEBUG] websocket 29: BasicAuth matched
+ 2023-01-18 16:58:14,907 [DEBUG] websocket 29: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,907 [DEBUG] websocket 29: Requested file '/app/images/connect.svg'
+ 2023-01-18 16:58:14,907 [INFO] websocket 29: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/connect.svg HTTP/1.1" 200 3625
+ 2023-01-18 16:58:14,907 [DEBUG] websocket 29: No connection after handshake
+ 2023-01-18 16:58:14,907 [DEBUG] websocket 29: handler exit
+ 2023-01-18 16:58:14,945 [INFO] websocket 30: got client connection from 127.0.0.1
+ 2023-01-18 16:58:14,951 [DEBUG] websocket 30: using SSL socket
+ 2023-01-18 16:58:14,955 [DEBUG] websocket 30: BasicAuth matched
+ 2023-01-18 16:58:14,955 [DEBUG] websocket 30: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:14,955 [DEBUG] websocket 30: Requested file '/app/sounds/bell.oga'
+ 2023-01-18 16:58:14,955 [INFO] websocket 30: 127.0.0.1 127.0.0.1 omsoft "GET /app/sounds/bell.oga HTTP/1.1" 200 8701
+ 2023-01-18 16:58:14,955 [DEBUG] websocket 30: No connection after handshake
+ 2023-01-18 16:58:14,955 [DEBUG] websocket 30: handler exit
+ 2023-01-18 16:58:16,113 [INFO] websocket 31: got client connection from 127.0.0.1
+ 2023-01-18 16:58:16,117 [DEBUG] websocket 31: using SSL socket
+ 2023-01-18 16:58:16,120 [DEBUG] websocket 31: BasicAuth matched
+ 2023-01-18 16:58:16,120 [DEBUG] websocket 31: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:16,120 [DEBUG] websocket 31: Requested file '/app/locale/ru.json'
+ 2023-01-18 16:58:16,120 [INFO] websocket 31: 127.0.0.1 127.0.0.1 omsoft "GET /app/locale/ru.json HTTP/1.1" 200 4027
+ 2023-01-18 16:58:16,120 [DEBUG] websocket 31: No connection after handshake
+ 2023-01-18 16:58:16,120 [DEBUG] websocket 31: handler exit
+ 2023-01-18 16:58:16,148 [INFO] websocket 32: got client connection from 127.0.0.1
+ 2023-01-18 16:58:16,153 [DEBUG] websocket 32: using SSL socket
+ 2023-01-18 16:58:16,155 [DEBUG] websocket 32: BasicAuth matched
+ 2023-01-18 16:58:16,155 [DEBUG] websocket 32: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:16,155 [DEBUG] websocket 32: Requested file '/app/images/icons/368_kasm_logo_only_32x32.png'
+ 2023-01-18 16:58:16,155 [INFO] websocket 32: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/icons/368_kasm_logo_only_32x32.png HTTP/1.1" 200 2953
+ 2023-01-18 16:58:16,155 [DEBUG] websocket 32: No connection after handshake
+ 2023-01-18 16:58:16,155 [DEBUG] websocket 32: handler exit
+ 2023-01-18 16:58:16,224 [INFO] websocket 33: got client connection from 127.0.0.1
+ 2023-01-18 16:58:16,228 [DEBUG] websocket 33: using SSL socket
+ 2023-01-18 16:58:16,230 [DEBUG] websocket 33: BasicAuth matched
+ 2023-01-18 16:58:16,230 [DEBUG] websocket 33: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:16,230 [DEBUG] websocket 33: Requested file '/package.json'
+ 2023-01-18 16:58:16,230 [INFO] websocket 33: 127.0.0.1 127.0.0.1 omsoft "GET /package.json HTTP/1.1" 200 2843
+ 2023-01-18 16:58:16,230 [DEBUG] websocket 33: No connection after handshake
+ 2023-01-18 16:58:16,230 [DEBUG] websocket 33: handler exit
+ 2023-01-18 16:58:16,232 [INFO] websocket 34: got client connection from 127.0.0.1
+ 2023-01-18 16:58:16,236 [DEBUG] websocket 34: using SSL socket
+ 2023-01-18 16:58:16,238 [DEBUG] websocket 34: BasicAuth matched
+ 2023-01-18 16:58:16,238 [DEBUG] websocket 34: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:16,238 [DEBUG] websocket 34: Requested file '/app/images/fullscreen.svg'
+ 2023-01-18 16:58:16,238 [INFO] websocket 34: 127.0.0.1 127.0.0.1 omsoft "GET /app/images/fullscreen.svg HTTP/1.1" 200 3334
+ 2023-01-18 16:58:16,238 [DEBUG] websocket 34: No connection after handshake
+ 2023-01-18 16:58:16,238 [DEBUG] websocket 34: handler exit
+ 2023-01-18 16:58:18,111 [INFO] websocket 35: got client connection from 127.0.0.1
+ 2023-01-18 16:58:18,116 [DEBUG] websocket 35: using SSL socket
+ 2023-01-18 16:58:18,119 [DEBUG] websocket 35: BasicAuth matched
+ 2023-01-18 16:58:18,119 [DEBUG] websocket 35: Invalid WS request, maybe a HTTP one
+ 2023-01-18 16:58:18,119 [DEBUG] websocket 35: Requested file '/service-worker.js'
+ 2023-01-18 16:58:18,119 [DEBUG] websocket 35: file not found or insufficient permissions
+ 2023-01-18 16:58:18,119 [INFO] websocket 35: 127.0.0.1 127.0.0.1 omsoft "GET /service-worker.js HTTP/1.1" 404 180
+ 2023-01-18 16:58:18,119 [DEBUG] websocket 35: No connection after handshake
+ 2023-01-18 16:58:18,120 [DEBUG] websocket 35: handler exit
+ 2023-01-18 16:58:38,234 [DEBUG] VNCServerST: shutting down server omsoft.online:1 (omsoft)
+ 2023-01-18 16:58:38,234 [INFO] ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ 2023-01-18 16:58:38,234 [INFO] ComparingUpdateTracker: (1:-nan ratio)
